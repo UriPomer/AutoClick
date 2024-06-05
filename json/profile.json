@@ -1,0 +1,34 @@
+{
+    "liveStream": [
+        {
+            "file": "D:/livehime/livehime.exe",
+            "time": 7000,
+            "type": "LaunchSoftware"
+        },
+        {
+            "file": "D:/My_System/Desktop/autoClick/profile/liveStream/1.png",
+            "time": 0,
+            "type": "ClickButton"
+        },
+        {
+            "file": "D:/My_System/Desktop/autoClick/profile/liveStream/2.png",
+            "time": 0,
+            "type": "ClickButton"
+        },
+        {
+            "file": "C:/Users/Urim/Pictures/1.png",
+            "time": 0,
+            "type": "ClickButton"
+        },
+        {
+            "file": "D:/obs-studio/bin/64bit/obs64.exe",
+            "time": 6000,
+            "type": "LaunchSoftware"
+        },
+        {
+            "file": "D:/My_System/Desktop/autoClick/profile/liveStream/3.png",
+            "time": 0,
+            "type": "ClickButton"
+        }
+    ]
+}

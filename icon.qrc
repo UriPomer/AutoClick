@@ -1,2 +1,8 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/icon">
+        <file>src/logo.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>src/MaterialDark.qss</file>
+    </qresource>
+</RCC>

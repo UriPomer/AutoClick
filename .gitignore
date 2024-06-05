@@ -1,0 +1,13 @@
+platforms
+release
+imageformats
+iconengines
+debug
+.vs
+.vscode
+.qtc_clangd
+translations
+AutoNewProfile/platforms
+AutoNewProfile/imageformats
+AutoNewProfile/iconengines
+AutoNewProfile/debug

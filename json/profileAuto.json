@@ -1,0 +1,53 @@
+{
+    "start": [
+        {
+            "Height": 1307,
+            "PosX": 595,
+            "PosY": 404,
+            "Width": 1932,
+            "filePath": "D:\\QQNT\\QQ.exe"
+        },
+        {
+            "Height": 1669,
+            "PosX": 130,
+            "PosY": 236,
+            "Width": 2242,
+            "filePath": "C:\\Windows\\System32\\Taskmgr.exe"
+        },
+        {
+            "Height": 0,
+            "PosX": 0,
+            "PosY": 0,
+            "Width": 0,
+            "filePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+        },
+        {
+            "Height": 0,
+            "PosX": 0,
+            "PosY": 0,
+            "Width": 0,
+            "filePath": "D:\\Clash For Windows\\Clash for Windows.exe"
+        },
+        {
+            "Height": 0,
+            "PosX": 0,
+            "PosY": 0,
+            "Width": 0,
+            "filePath": "D:\\KOOK\\app-0.70.2\\KOOK.exe"
+        },
+        {
+            "Height": 2160,
+            "PosX": 0,
+            "PosY": 0,
+            "Width": 3840,
+            "filePath": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe"
+        },
+        {
+            "Height": 0,
+            "PosX": 0,
+            "PosY": 0,
+            "Width": 0,
+            "filePath": "C:\\Program Files (x86)\\VB\\Voicemeeter\\voicemeeter.exe"
+        }
+    ]
+}
